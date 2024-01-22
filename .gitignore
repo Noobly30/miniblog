@@ -56,7 +56,7 @@ Sessionx.vim
 .netrwhist
 # Auto-generated tag files
 tags
-# Persistent undo
+# Persist ent undo
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,vim,go
